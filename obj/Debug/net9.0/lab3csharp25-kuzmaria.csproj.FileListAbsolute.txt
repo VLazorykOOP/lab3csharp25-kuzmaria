@@ -1,0 +1,15 @@
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\bin\Debug\net9.0\lab3csharp25-kuzmaria.exe
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\bin\Debug\net9.0\lab3csharp25-kuzmaria.deps.json
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\bin\Debug\net9.0\lab3csharp25-kuzmaria.runtimeconfig.json
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\bin\Debug\net9.0\lab3csharp25-kuzmaria.dll
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\bin\Debug\net9.0\lab3csharp25-kuzmaria.pdb
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\obj\Debug\net9.0\lab3csharp25-kuzmaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\obj\Debug\net9.0\lab3csharp25-kuzmaria.AssemblyInfoInputs.cache
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\obj\Debug\net9.0\lab3csharp25-kuzmaria.AssemblyInfo.cs
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\obj\Debug\net9.0\lab3csharp25-kuzmaria.csproj.CoreCompileInputs.cache
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\obj\Debug\net9.0\lab3csharp25-kuzmaria.sourcelink.json
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\obj\Debug\net9.0\lab3csharp25-kuzmaria.dll
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\obj\Debug\net9.0\refint\lab3csharp25-kuzmaria.dll
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\obj\Debug\net9.0\lab3csharp25-kuzmaria.pdb
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\obj\Debug\net9.0\lab3csharp25-kuzmaria.genruntimeconfig.cache
+C:\Users\kuzds\OneDrive\Робочий стіл\С#\lab3csharp25-kuzmaria\obj\Debug\net9.0\ref\lab3csharp25-kuzmaria.dll
