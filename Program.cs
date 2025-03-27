@@ -65,8 +65,8 @@ class Triangle
         Console.WriteLine($"Сторони трикутника: a = {a}, b = {b}, c = {c}");
     }
 
-    public int Perimeter() => a + b + c;
-
+//    public int Perimeter() => a + b + c;
+public int Perimeter() { return a + b + c; }
     public double Area()
     {
         double p = Perimeter() / 2.0;
@@ -149,7 +149,7 @@ class Program
         Console.WriteLine("1 - Робота з трикутниками");
         Console.WriteLine("2 - Робота з двигунами");
         int choice = int.Parse(Console.ReadLine());
-
+try {
         if (choice == 1)
         {
             Triangle[] triangles =
@@ -198,4 +198,5 @@ class Program
             Console.WriteLine("Невірний вибір.");
         }
     }
+    } c
 }
